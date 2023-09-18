@@ -1,0 +1,23 @@
+*::selection {
+    background-color: #ff7d3b;
+    color: #fff;
+}
+
+html {    
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #01051e;
+    color: #fff;
+}
+
+input {
+    color: #333 !important;
+}
+
+@media (min-width: 1024px) {
+    #menu-content {
+        display: none;
+    }
+}
